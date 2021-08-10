@@ -2746,10 +2746,10 @@ native-url@0.3.4:
   dependencies:
     querystring "^0.2.0"
 
-next-linaria@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/next-linaria/-/next-linaria-0.10.0.tgz#e97ae482a13cc020627d4c7a3db2ecd2d3e49f52"
-  integrity sha512-DFzlAbwPOx+5uB0Qc/reTwdgGSN9sOxZdq4ssvq0embGAx0KTlXy4PhBlyCYhuZ9B8chqqDLXkWSRXxCcNxnqw==
+next-linaria@1.0.0-beta:
+  version "1.0.0-beta"
+  resolved "https://registry.yarnpkg.com/next-linaria/-/next-linaria-1.0.0-beta.tgz#0004731246872bfd4319f27c2bd1be242795d68d"
+  integrity sha512-qLwxqWEDa1V7PyM7lAkmUt6/jrEymkLts4TFidTw3A0mVtgpUJ1pulJYaLm7CXcYZULpa9+2x/xH/PBqY4y4vw==
 
 next@latest:
   version "11.0.1"
