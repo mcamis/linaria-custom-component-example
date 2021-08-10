@@ -1,3 +1,4 @@
+import "core-js";
 import Head from "next/head";
 import { styled } from "@linaria/react";
 import { css } from "@linaria/core";

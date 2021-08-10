@@ -1,3 +1,3 @@
 const withLinaria = require("next-linaria");
 
-module.exports = withLinaria({});
+module.exports = withLinaria({ webpack5: false });
