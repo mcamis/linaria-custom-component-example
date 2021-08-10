@@ -45,7 +45,7 @@ export default function Home() {
         <title>With Linaria</title>
       </Head>
       <Box className={anotherClass}>
-        <CoolComponent />
+        <StyledCoolComponent />
       </Box>
     </>
   );
